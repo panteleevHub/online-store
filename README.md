@@ -1,4 +1,4 @@
-# vue-l7
+# online-store
 
 > A Vue.js project
 
